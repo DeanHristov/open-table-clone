@@ -1,4 +1,4 @@
-# open tableclone
+# open table clone
 
 ## Motivation
 
