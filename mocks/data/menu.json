@@ -1,0 +1,492 @@
+[
+  {
+    "id": "5f0c53a0-dade-40fb-9aca-f2cc84786efd",
+    "name": "Ghee roast chicken wings",
+    "description": "Crispy chicken wings coated in a sauce made from roasted whole spices and clarified butter.",
+    "price": "$18.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "322e11d9-c969-49ef-8485-acdbdcdf8140",
+    "name": "Sol Kadhi scallop ceviche",
+    "description": "Cured scallop served with mangosteen and coconut broth",
+    "price": "$18.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "26ea233c-23c6-4ab0-b595-3d2a40b68b60",
+    "name": "Butte ka kees",
+    "description": "Bhutte( Corn) Khees( grated) and spiced and tempered served with waffers",
+    "price": "$17.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "a68011f8-01db-4229-8895-177cbb2d003c",
+    "name": "Burrata Paapdi Chaat",
+    "description": "Our house made paapdi served with spiced potatoes and burrata cheese dressed with in house chutneys",
+    "price": "$16.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "d42b1b73-253a-43cc-997b-67958b07cded",
+    "name": "Shaadi Waala Chicken Curry",
+    "description": "Chicken curry usually served in weddings back home (Must Try)",
+    "price": "$26.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "13eb1058-c6e8-4d79-9431-658bed832865",
+    "name": "Shahi Tukda",
+    "description": "Chef’s signature dessert : crispy bread poched with flavoured milk and topped with homemade cream made of pistachios, rose.",
+    "price": "$11.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "029dca89-c935-4300-92f8-55fd2b02d27b",
+    "name": "Four-In-One Chicken",
+    "description": "Boneless chicken breast pieces marinated with four different kind of texture and Indian spices for each piece and grilled in clay oven",
+    "price": "$16.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "e5089065-1e7e-49c0-ac48-4c9887c94cd1",
+    "name": "Chicken Tikka",
+    "description": "Boneless Chicken marinated overnight with yogurt, Indian spices and cooked in a Tandoor oven",
+    "price": "$16.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "0153345b-5f28-471f-b196-8b2726ff6445",
+    "name": "Paneer Tikka",
+    "description": "Tandoori Paneer Tikka is made from homemade cottage cheese which is marinated in yogurt and dry aromatic Indian spices along with diced onions and capsicum and grilled in clay oven",
+    "price": "$16.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "2dcb1c4e-4a8f-473e-b316-60bbc37f4249",
+    "name": "Fish Tikka",
+    "description": "Deboned fish marinated in ginger, garlic and other spices and grilled in clay oven",
+    "price": "$16.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "b16d0059-ebe6-4c1b-ba01-031aaf7e50e3",
+    "name": "Prawn Tandoori",
+    "description": "Large juicy prawn marinated in ginger, garlic, fresh squeezed lemon juice and along with various dry spices and grilled in clay oven",
+    "price": "$19.49",
+    "restaurant_id": ""
+  },
+  {
+    "id": "de2dbb9b-d5ef-454a-88b9-dc319233d57a",
+    "name": "Mixed Grill",
+    "description": "Tandoori chicken, lamb tikka, chicken tikka and fish grilled in our clay oven",
+    "price": "$20.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "97bef0cc-30d6-40f9-be00-2d7b05501820",
+    "name": "Coconut Curry",
+    "description": "Choice of boneless chicken breast, lamb, beef, fish or shrimp cooked in a creamy coconut, butter and onion sauce",
+    "price": "15.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "072e2775-3c7f-463f-afa8-8fa5d85f9ecf",
+    "name": "Quilon Chicken",
+    "description": "free range grass fed chicken cooked in a tangy tomato masala",
+    "price": "$25.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "39a3f595-eb73-4619-a5c3-61ac1069c287",
+    "name": "Mariposa's Duck Biryani**",
+    "description": "slow baked in kiama rice, quail egg and raita",
+    "price": "$26.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "14a6757f-ceb3-4284-920d-46daed7fa029",
+    "name": "Pala Lamb Peralan",
+    "description": "tender morsels of lamb in an exotic masala",
+    "price": "$26.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "930abe28-46ff-4621-8d54-2bee04204c05",
+    "name": "Roasted Salmon In Moilee Sauce",
+    "description": "marinated in green mango, spices and roasted",
+    "price": "$27.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "c92940e2-c87f-4362-a25a-49649f1093ac",
+    "name": "Vegetable Aviyal",
+    "description": "assorted vegetables cooked in yoghurt, coconut spiked with cumin",
+    "price": "$22.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "3b332a2c-696c-4eef-9006-a54dcb9e2904",
+    "name": "Aloo Tiki",
+    "description": "Potato croquette topped with pickled seasonal vegetables and an assortment of chutneys",
+    "price": "$12.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "3a2ff3b7-99c6-401f-b676-a284726650de",
+    "name": "Spicy Lamb Chops",
+    "description": "Lamb chops are coated in a spicy marinade and seared. It's paired with mint chutney, mango chutney, and raita. Allergens: Meat",
+    "price": "16.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "c10c83a7-501b-4c51-94e5-ad9fdf5211bb",
+    "name": "Crispy Shrimp",
+    "description": "Tandoori shrimp wrapped in crispy potato accompanied by a seasonal chutney and micro greens from the garden",
+    "price": "$15.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "4f0c2fb2-ca94-4017-b42d-a28bddb7298f",
+    "name": "Bhaingan Bharta",
+    "description": "Smokey eggplant and peas",
+    "price": "$17.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "48a02962-a8d4-4f4d-a474-4e29012052dd",
+    "name": "Kofta Curry",
+    "description": "Indian kofta served with bottleneck gourds and potatoes in a cashew coconut sauce",
+    "price": "$20.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "4d8e298c-c54a-4ce4-a110-9d6e3a982051",
+    "name": "murgh salaad",
+    "description": "Chicken breast, mix greens, mint vinegar dressing",
+    "price": "$18.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "3d2ac041-2c23-42b7-b6b2-23700152a269",
+    "name": "papad ki tokri",
+    "description": "Papadams, assorted chutneys & salsa",
+    "price": "$18.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "5a1ad07a-7842-4523-a137-6f21cacc6bed",
+    "name": "khumb korma",
+    "description": "Aged basmati rice, marinated lamb & puff pastry cover, garlic yogurt",
+    "price": "$36.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "d10325e9-b075-44b9-91c7-22a0ccc954af",
+    "name": "dal tadka",
+    "description": "Yellow lentils, indian tempering",
+    "price": "$20.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "4da6972e-6906-4040-86ab-b359513cd557",
+    "name": "cocochoco rasmalai cheese cake",
+    "description": "Coconut crémeux, chocolate hazelnut crunch, coconut snow, citrus gel, cardamom ice cream",
+    "price": "$19.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "12e275b3-a625-4864-b098-f1f5821a0ed1",
+    "name": "Molasses Braised Beef Cheeks Curry",
+    "description": "Caramelised root vegetables, deggi mirch, buttermilk onion rings",
+    "price": "$32.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "d7a74561-5965-4d50-94be-2dfb1b8a090e",
+    "name": "Coconut Vatan Stuffed Whole Branzino",
+    "description": "Turmeric lemon butter sauce, curry leaves, mustard seeds",
+    "price": "$39.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "93bc1853-9837-46bd-9ef6-69ca20dbbefe",
+    "name": "Goan Chorizo + Braised Pork Shoulder Curry",
+    "description": "Double smoked bacon, roasted parsnips, red kidney beans, apple achar",
+    "price": "$31.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "cc219ea8-47bc-40b3-9dce-f753aca2e37c",
+    "name": "Screech Rum Soaked Gulab Jamun",
+    "description": "Whipped mascarpone cream, pistachio crumble",
+    "price": "$14.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "0e167d2e-d12d-4a77-a392-c2d39ba46448",
+    "name": "Ontario Apple + Almond Halwa Tart",
+    "description": "Whipped cinnamon malai, red currants",
+    "price": "$14.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "c2dd1de2-be3b-4889-8cd1-9f72765f5ecc",
+    "name": "Vegetable samosa",
+    "description": "Seasoned potatoes and peas wrapped in a light pastry",
+    "price": "$4.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "3dfa9ee7-82c6-42a5-bd94-07f97f9d1c4a",
+    "name": "Goan fish curry",
+    "description": "Filet of salmon cooked in a traditional hot and tangy coconut curry",
+    "price": "$15.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "b504aa28-8559-450f-96c5-357c39b64995",
+    "name": "Lamb vindaloo",
+    "description": "A delicacy from Goa - Boneless lamb cooked in a hot, spicy and tangy sauce with potatoes",
+    "price": "$14.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "696fe56d-a027-4043-82f3-25297b34202b",
+    "name": "Matar paneer",
+    "description": "Cottage cheese and green peas cooked in butter flavored onion and tomato gravy",
+    "price": "$10.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "2fa0f1aa-3fbe-4199-91a1-4536201eec37",
+    "name": "Chicken vindaloo",
+    "description": "Chicken cooked with herbs and spices in special hot spicy and tangy sauce with potatoes",
+    "price": "$14.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "7423c94c-e71a-4a00-9cd0-a330bec5dbbf",
+    "name": "Chicken jalfrezi",
+    "description": "Chicken cooked with delicious mix of green peppers, onions, green chillies and tomatoes",
+    "price": "$14.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "40952c8f-ec02-4a90-bc4e-84453d83b73e",
+    "name": "Lamb Lollipops",
+    "description": "grilled chops with turmeric, mint and fenugreek curry",
+    "price": "$44.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "491269fe-f6a0-4896-8001-2019cd30d421",
+    "name": "Vegan Tikka Masala",
+    "description": "tofu, sweet peppers, red onion, tomato and cashew cream",
+    "price": "$23.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "7011b2d8-10f5-4fd1-a85f-4c6adafe6f5f",
+    "name": "Short Ribs",
+    "description": "PEI beef braised with black cumin, cloves, cardamom and fennel seeds",
+    "price": "$32.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "535d29b8-7090-4126-9197-95f4ded6048e",
+    "name": "Punjabi Chicken Curry",
+    "description": "spicy home-style chicken curry",
+    "price": "$24.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "65418f62-0226-4bfe-9d04-f28761244b85",
+    "name": "Pukka Chaat",
+    "description": "string vegetables, sprouts, rice crisps, pomegranate, mango, green apple, chutneys and yoghurt",
+    "price": "$16.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "c48514f6-cfe7-4f31-b44c-54c3461f3321",
+    "name": "Chicken Tikka",
+    "description": "herb-infused white meat, tandoor roasted and served with tamarind chutney",
+    "price": "$21.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "aaaaca0f-89dd-4629-8b19-7e507656782b",
+    "name": "Butter Chicken Poutine",
+    "description": "Fries are served topped with melting cheese and butter chicken gravy",
+    "price": "$8.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "dbe1715d-6820-4113-b53f-ac104d6406a2",
+    "name": "Vegetable Appy Platter",
+    "description": "2 Vegetable samosas, vegetable pakora, paneer pakora, 1 papadum, served with chickpea curry",
+    "price": "$13.99",
+    "restaurant_id": ""
+  },
+  {
+    "id": "c1ff3e94-9ed1-4020-b9f1-cdc0385408cd",
+    "name": "Pulled Chicken",
+    "description": "marinated chicken with salsa",
+    "price": "12.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "866c1eca-8a40-4dfb-aa55-d7155172caf4",
+    "name": "Fettuccine Pescatore",
+    "description": "Scallops, mussels, shrimp and crab meat in a rose sauce",
+    "price": "$33.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "96d37867-32ae-4046-b7ab-f1991f599543",
+    "name": "Colosseo Pizze",
+    "description": "Luciano's spicy Italian sausage, black olives, hot peppers, mozzarella and parmigiano cheeses",
+    "price": "$22.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "61090d98-0c89-4880-8453-8e5d7de5a23f",
+    "name": "Vitello alla Griglia",
+    "description": "Grilled veal medallion, with seasonal vegetables and potatoes",
+    "price": "$35.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "589abf03-dffc-4b52-a262-d0a137ecf18e",
+    "name": "Agnello",
+    "description": "Grilled lamb chops in a citrus marinade, with seasonal vegetables and potatoes",
+    "price": "$35.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "833a5b68-b867-4dfe-9a9b-4b4536b6c723",
+    "name": "Orata ai Porri",
+    "description": "$32.00",
+    "price": "Pan seared sea bream filet with sautéed leeks, served over a wild rice medley and greens",
+    "restaurant_id": ""
+  },
+  {
+    "id": "6afcaaf8-cac6-45aa-b8d9-c55624ff4a56",
+    "name": "Insalata di Mare",
+    "description": "Mixed greens tossed in our house viniagriette, topped with grilled shrimp and crab meat",
+    "price": "$25.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "64105a89-bd02-4332-b101-3c455c937ecd",
+    "name": "PASTOR",
+    "description": "Marinated shaved pork, pineapple, red onion dice, cilantro, salsa verde, corn tortilla",
+    "price": "$23.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "b0c5f498-5aba-438e-9e06-165d64029c1f",
+    "name": "COCHINITA PIBIL",
+    "description": "Achiote rubbed pork, black bean puree, pickled red onion, cilantro, habanero salsa",
+    "price": "$23.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "a65b76e6-1ad1-4d14-b323-baeddb2077e4",
+    "name": "Seafood Molcajete",
+    "description": "Grilled calamari, morita garlic shrimp, octopus",
+    "price": "$23.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "b9ec79e7-9beb-4c99-b745-c94f1110fea0",
+    "name": "Sirloin Steak & Tuetano Osso Buco",
+    "description": "Bone marrow, slow cooked in the oven, topped with our seasoning",
+    "price": "$26.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "224e0062-c87e-402d-a660-d2c4f3bbe17b",
+    "name": "Fajitas",
+    "description": "A sizzling bed of onions and bell peppers topped with your choice of protein",
+    "price": "$17.50",
+    "restaurant_id": ""
+  },
+  {
+    "id": "d632fbf0-02e8-4918-99b2-a6920a126132",
+    "name": "Hamachi",
+    "description": "Ponzu à la truffe, truffe noire râpée [Salmon Tataki, Truffle ponzu, Shaved black truffle]",
+    "price": "$24.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "02e81919-bb6d-4770-9b98-1ccc1e35430d",
+    "name": "Tartare de Thon",
+    "description": "Soja Yuzu, piment serrano [Hot Hamachi, Yuzu soy, Serrano pepper]",
+    "price": "$24.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "61741c39-ca39-4b9a-82da-460ad3d3ad5d",
+    "name": "Tataki de Saumon",
+    "description": "Purée d'avocat, chili soja [Tuna Tartar, Avocado puree, Chili soy]",
+    "price": "$27.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "5afbef2e-49e5-4285-aac9-df7c18361e8c",
+    "name": "Tomato Braised Beef Cheek Ragu",
+    "description": "Wild Mushrooms, Sweet Potato & Ricotta Gnocchi, Fresh Basil",
+    "price": "$29.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "552d8883-f9b3-428e-930c-862ce32a4789",
+    "name": "Roasted Butternut Squash Ravioli",
+    "description": "Gorgonzola, Balsamic Reduction, Brown Butter, Crispy Sage",
+    "price": "$33.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "e41a0086-1d6d-4d04-a3b2-26bc78c38c41",
+    "name": "Pan Seared Atlantic Salmon",
+    "description": "Heirloom Carrots, Green Beans, Parsnip Puree, Beluga Lentils & Barley, Chive Oil",
+    "price": "$33.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "560cf9be-b421-4e9d-b4e3-f4209868bafd",
+    "name": "Woodfire Grilled 12oz AAA Ribeye",
+    "description": "Heirloom Carrots, Green Beans, Sweet Potato Gratin, Mushroom Veal jus",
+    "price": "$55.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "fa49ba20-ea59-433d-9ab1-c13e7b363ff7",
+    "name": "Pizzoccheri di Teglio",
+    "description": "Homemade short buckwheat Pasta coated in three-cheese sauce, savoy cabbage, potatoes, butter and sage",
+    "price": "$24.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "6a0b6e51-1bfa-4bb9-b226-75735dfa7396",
+    "name": "Gnocchi al Gorgonzola",
+    "description": "Fresh homemade Gnocchi served in a blue cheese sauce",
+    "price": "$23.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "14ac583a-a06f-409c-9d47-8a14e5e86d15",
+    "name": "Risotto ai Funghi",
+    "description": "Aironi Carnaroli risotto served with mushrooms",
+    "price": "$26.00",
+    "restaurant_id": ""
+  },
+  {
+    "id": "733ad467-14c8-4044-b5eb-53f3d5cf238e",
+    "name": "Spezzatino con Polenta",
+    "description": "Traditional Northern Italian Specialty. Slow-cooked feef stew, cooked in tomato sauce and red wine reduction, served over soft polenta",
+    "price": "$26.00",
+    "restaurant_id": ""
+  }
+]
