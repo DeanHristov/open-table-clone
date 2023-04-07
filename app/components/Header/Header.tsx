@@ -1,8 +1,10 @@
+"use client";
+import * as React from "react";
 import { FC, ReactNode } from "react";
 
 export interface IHeaderProps {
-  children: ReactNode;
   height?: string;
+  children: ReactNode;
 }
 
 const Header: FC<IHeaderProps> = ({ children, height = "" }) => {

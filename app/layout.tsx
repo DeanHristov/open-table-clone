@@ -7,9 +7,6 @@ import "./globals.css";
 
 // Adding MSW.IO
 import "../mocks";
-import Input from "./components/Input";
-import Button from "./components/Button";
-import Header from "./components/Header";
 
 export const metadata = {
   title: "Open table | Clone",
@@ -29,12 +26,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <main className="max-w-screen-2xl h-screen m-auto bg-white">
             <TopNav links={navigationItems} />
             <NavBar />
-            <Header height="h-64">
-              <div className="pr-4">
-                <Input placeholder="Type location..." />
-              </div>
-              <Button red medium title={"Let's go"} />
-            </Header>
             {children}
           </main>
         </main>

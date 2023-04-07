@@ -1,9 +1,15 @@
 import { FC } from "react";
+import Header from "../../components/Header";
 
 export interface IReservationPageProps {}
 
 const ReservationPage: FC<IReservationPageProps> = () => {
-  return <div className="border-t h-screen" />;
+  return (
+    <>
+      <Header />
+      <div className="border-t h-screen" />
+    </>
+  );
 };
 
 export default ReservationPage;

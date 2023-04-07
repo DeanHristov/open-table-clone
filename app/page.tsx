@@ -1,14 +1,20 @@
-import { Inter } from 'next/font/google';
+import { Inter } from "next/font/google";
+import Header from "./components/Header";
+import * as React from "react";
+import Input from "./components/Input";
+import Button from "./components/Button";
 
-const inter = Inter({ subsets: ['latin'] }) 
+const inter = Inter({ subsets: ["latin"] });
 
-
-require("../mocks"); 
+require("../mocks");
 
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+    <Header height="md:h-64">
+      <div className="md:pr-4">
+        <Input placeholder="Type location..." />
+      </div>
+      <Button red medium title={"Let's go"} />
+    </Header>
+  );
 }

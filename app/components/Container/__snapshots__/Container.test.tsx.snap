@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <Container {...} /> Should be able to render default state 1`] = `
+<div>
+  <div
+    class="bg-white w-full w-auto rounded p-3 shadow border border-gray-200"
+  >
+    <div
+      class="pb-4  border-gray-300"
+    >
+      <h1
+        class="text-neutral-8 font-bold leading-6 text-2xl"
+      >
+        Just a test
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Component: <Container {...} /> Should be able to render with dynamic width 1`] = `
+<div>
+  <div
+    class="bg-white w-full w-[70%] rounded p-3 shadow border border-gray-200"
+  >
+    <div
+      class="pb-4  border-gray-300"
+    >
+      <h1
+        class="text-neutral-8 font-bold leading-6 text-2xl"
+      >
+        Just a test
+      </h1>
+    </div>
+  </div>
+</div>
+`;

@@ -6,16 +6,19 @@ import classNames from "classnames";
 export interface IHeadingProps {
   title: string;
   secondary?: boolean;
+  large?: boolean;
 }
 
-const Heading: FC<IHeadingProps> = ({ title, secondary }) => {
-  const defaultStyles = [
-    "text-neutral-8",
-    "text-2xl",
-    "font-bold",
-    "leading-6",
-  ];
-  const styles = classNames(defaultStyles);
+const Heading: FC<IHeadingProps> = ({
+  title,
+  large = false,
+  secondary = false,
+}) => {
+  const defaultStyles = ["text-neutral-8", "font-bold", "leading-6"];
+  const styles = classNames(defaultStyles, {
+    "text-2xl": !large,
+    "text-6xl": large,
+  });
 
   return (
     <div className={`pb-4 ${secondary ? "border-b" : ""} border-gray-300`}>
