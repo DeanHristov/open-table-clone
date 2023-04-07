@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <Logo {...} /> Should be able to render default state 1`] = `
+<div>
+  <div
+    class="m-0 p-0"
+  >
+    <a
+      href="/"
+    >
+      <img
+        alt="Open table"
+        data-nimg="1"
+        decoding="async"
+        height="200"
+        loading="lazy"
+        src="/opentable-logo.svg"
+        style="color: transparent;"
+        width="200"
+      />
+    </a>
+  </div>
+</div>
+`;

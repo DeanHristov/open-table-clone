@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <Header {...} /> Should be able to render default state 1`] = `
+<div>
+  <header
+    class=" flex justify-center items-center bg-gradient-to-r from-[#0f1f47] to-[#5f6984] py-8"
+  >
+    <div />
+  </header>
+</div>
+`;

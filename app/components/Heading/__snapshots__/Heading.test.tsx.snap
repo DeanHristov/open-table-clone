@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <Heading {...} /> Should be able to render default state 1`] = `
+<div>
+  <div
+    class="pb-4  border-gray-300"
+  >
+    <h1
+      class="text-neutral-8 text-2xl font-bold leading-6"
+    >
+      Some title
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`Component: <Heading {...} /> Should be able to render the secondary state 1`] = `
+<div>
+  <div
+    class="pb-4 border-b border-gray-300"
+  >
+    <h1
+      class="text-neutral-8 text-2xl font-bold leading-6"
+    >
+      Some title
+    </h1>
+  </div>
+</div>
+`;

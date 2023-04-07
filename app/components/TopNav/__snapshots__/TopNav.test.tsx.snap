@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <TopNav  {...} /> Should be able to render default state 1`] = `
+<div>
+  <nav
+    class="bg-gray-200 p-2 flex justify-end"
+  >
+    <ul
+      class="flex"
+    >
+      <li
+        class="text-xs cursor-pointer px-2 m-0"
+      >
+        <a
+          href=""
+        >
+          For Businesses
+        </a>
+      </li>
+      <li
+        class="text-xs cursor-pointer px-2 m-0"
+      >
+        <a
+          href=""
+        >
+          Mobile
+        </a>
+      </li>
+      <li
+        class="text-xs cursor-pointer px-2 m-0"
+      >
+        <a
+          href=""
+        >
+          FAQ
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
