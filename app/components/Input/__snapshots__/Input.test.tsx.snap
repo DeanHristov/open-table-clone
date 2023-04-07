@@ -3,10 +3,10 @@
 exports[`Component: <Input {...} /> Should be able to render default state 1`] = `
 <div>
   <div
-    class="min-w-[290px] relative"
+    class="min-w-[290px] px-2 md:px-0 w-full relative"
   >
     <input
-      class="border border-gray-200 rounded mr-3 pl-10 py-2 h-12 w-full"
+      class="border border-gray-200 rounded md:mr-3 pl-10 py-2 h-12 w-full"
       placeholder="search location"
     />
     <svg

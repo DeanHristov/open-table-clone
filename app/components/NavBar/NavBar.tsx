@@ -9,9 +9,9 @@ export interface INavBarProps {}
 
 const NavBar: FC<INavBarProps> = ({}) => {
   return (
-    <nav className="bg-white p-1 flex justify-between">
+    <nav className="bg-white p-1 flex flex-col md:flex-row md:justify-between">
       <Logo />
-      <div className="flex">
+      <div className="flex w-full md:w-auto">
         <Button blue title="Sign in" />
         <Button title="Sign up" />
         <div className="flex items-center px-2">

@@ -42,7 +42,7 @@ const Button: FC<IButtonProps> = ({
   // Error: Hydration failed because the initial UI does not match what was rendered on the server.
 
   return (
-    <div className="p-1 h-auto">
+    <div className="p-1 h-auto w-full px-2 md:px-1 md:w-auto">
       <button disabled={disabled} onClick={onClick} className={styles}>
         {icon} {title}
       </button>

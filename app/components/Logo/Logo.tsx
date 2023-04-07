@@ -9,7 +9,7 @@ export interface ILogoProps {
 
 const Logo: FC<ILogoProps> = ({ width = 200, href = "/" }) => {
   return (
-    <div className="m-0 p-0">
+    <div className="m-0 p-0 flex justify-center md:justify-start">
       <Link href={href}>
         <Image
           src="/opentable-logo.svg"
